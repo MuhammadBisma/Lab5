@@ -1,4 +1,4 @@
-# Lab5 JavaScript
+# Lab5 Javascript
 # PEMOGRAMAAN WEB
 
 ## Nama    : Muhammad Bisma Putra H
@@ -8,7 +8,7 @@ ________________
 
 ## MEMBUAT JAVASCRIPT
 
-Pertama, disini saya akan membuat sebuah dokumen dasar Htmlnya terlebih dahulu, sebelum nantinya akan saya tambahkan kode untuk membuat sebuah Javascript Dasar.
+Pertama, disini saya akan membuat sebuah dokumen dasar HTMLnya terlebih dahulu, sebelum nantinya akan saya tambahkan kode untuk membuat sebuah Javascript Dasar.
 
 ![menambahkan_gambar](img/1.png))
 
@@ -193,7 +193,7 @@ Untuk dapat membuat sebuah program seleksi diatas dibutuhkannya kode berikut:
 
 ![menambahkan_gambar](img/9.png)
 
-Untuk dapat melakukan sebuah Operator Switch untuk nantinya menyeleksi kondisi seperti diatas, yang mana kita dapat memilih angka dari 1 hingga sepuluh yang nantinya akan ditampilkan hasil bilangan yang sesuai dengan angka yang kita pilih. Seperti gambar diatas yang mana saya memilih angka 10 dengan hasil seperti gambar dibawah yang menampilkan 'Bilangan Sepuluh' yang sesuai dengan apa yang kita tuliskan diatas.
+Untuk dapat melakukan sebuah Operator Switch untuk nantinya menyeleksi kondisi seperti diatas, yang mana kita dapat memilih angka dari 1 hingga sepuluh yang nantinya akan ditampilkan hasil bilangan yang sesuai dengan angka yang kita pilih. Seperti gambar diatas yang mana saya memilih angka 9 dengan hasil seperti gambar dibawah yang menampilkan 'Bilangan Sembilan' yang sesuai dengan apa yang kita tuliskan diatas.
 
 ![menambahkan_gambar](img/10.png)
 
@@ -259,7 +259,7 @@ Dan untuk dapat membuatnya dibutuhkannya kode berikut:
 
 ![menambahkan_gambar](img/11.png)
 
-Dalam pembuatan Form Input sedikit mirip secara garis besar dengan Penggunaan Operator seperti diatas, yang mana lagi lagi kalian perlu memasukan sebuah angka untuk dapat dicek apakah angka tersebut masuk kedalam bilangan ganjil ataupun genap. Seperti diatas yang mana saya mencoba memasukan angka 10 untuk dapat ditebak kebenarannya mengenai masuk kebilangan apa angka 10 itu, dan berikut hasilnya:
+Dalam pembuatan Form Input sedikit mirip secara garis besar dengan Penggunaan Operator seperti diatas, yang mana lagi lagi kalian perlu memasukan sebuah angka untuk dapat dicek apakah angka tersebut masuk kedalam bilangan ganjil ataupun genap. Seperti diatas yang mana saya mencoba memasukan angka 7 untuk dapat ditebak kebenarannya mengenai masuk kebilangan apa angka 7 itu, dan berikut hasilnya:
 
 ![menambahkan_gambar](img/12.png)
 
@@ -296,7 +296,7 @@ Berikut kode-kode yang saya gunakan untuk dapat membuat sebuah Form Input diatas
 
 ![menambahkan_gambar](img/13.png)
 
- Jika sebelumnya kita telah membuat sebuah Form input, maka selanjutnya kita membuat sebuah Form Button yang dimana disini membutnya menggunakan function Javascript dan html Form Button yang akan menampilkan hasil seperti gambar diatas. Kalian juga dapat mengaturnya menjadi warna yang kalian inginkan seperti misal Background hitam dengan teks merah, background pink dengan teks ungu. Atau bisa juga kalian menukarnya menjadi background pink dengan teks merah dsb.
+ Jika sebelumnya kita telah membuat sebuah Form input, maka selanjutnya kita membuat sebuah Form Button yang dimana disini membutnya menggunakan function Javascript dan html Form Button yang akan menampilkan hasil seperti gambar diatas. Kalian juga dapat mengaturnya menjadi warna yang kalian inginkan seperti misal Background hijau dengan teks hitam, background red dengan teks hitam. Atau bisa juga kalian menukarnya menjadi background biru dengan teks merah dsb.
 
 ![menambahkan_gambar](img/14.png)
 
@@ -389,7 +389,7 @@ Adapun yang akan terjadi apabila kalian tidak mengisi kolom alamat pada gambar d
 
 ![menambahkan_gambar](img/17.png)
 
-Dan untuk dapat membuat tampilan seperti gambar diatas, disini saya menggunaka kode-kode seperti dibawah ini:
+Dan untuk dapat membuat tampilan seperti gambar diatas, disini saya menggunakan kode-kode seperti dibawah ini:
 
 ```html
 <!DOCTYPE html>
