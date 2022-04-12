@@ -1,9 +1,9 @@
 # Lab5 JavaScript
 # PEMOGRAMAAN WEB
 
-Nama    : Muhammad Bisma Putra H
-Kelas   : TI.20.A.1
-NIM     : 312010443
+## Nama    : Muhammad Bisma Putra H
+## Kelas   : TI.20.A.1
+## NIM     : 312010443
 ________________
 
 ## MEMBUAT JAVASCRIPT
