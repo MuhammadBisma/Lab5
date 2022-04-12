@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<!-- file daftar menu.html -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daftar Menu Ticket</title>
+    <script lang="javascript">
+        function hitung(ele) {
+            var total = document.getElementById('total').value;
+                total = (total ? parseInt(total) : 0);
+            var harga = 0;
+
+            if (ele.checked) {
+                harga = ele.value;
+                total += parseInt(harga);
+            } else {
+                harga = ele.value;
+                if (total > 0)
+                    total -= parseInt(harga);
+            }
+            document.getElementById('total').value = total;
+        }
+    </script>
+</head>
+<body>
+    <h1>Daftar Harga Ticket Concert</h1>
+    <label><input type="checkbox" value="4000000" name="menu1" id="menu1" onclick="hitung(this);">VVIP Rp. 4.000.000</label><br>
+    <label><input type="checkbox" value="1000000s" name="menu2" id="menu2" onclick="hitung(this);">RED ZONE Rp. 1.000.000</label><br>
+    <label><input type="checkbox" value="2500000" name="menu3" id="menu3" onclick="hitung(this);">BLUE ZONE Rp. 2.500.000</label><hr>
+    <strong>Total Bayar: Rp. <input type="text" name="total" id="total"></strong>
+</body>
+</html>
